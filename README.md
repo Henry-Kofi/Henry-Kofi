@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henry-Kofi
 - A sofware Engineer and a web developer 
-- I also do data science with python skills
+- I also do data science with python 
 - excellent in Java, python, C++, html, css and many more
 - i'm a Ghanaian
 
