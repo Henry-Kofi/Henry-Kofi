@@ -96,24 +96,34 @@
 
 <h2>My Repo</h2>
 <p>
+  <a href="https://github.com/Henry-Kofi/eCommerceBackend">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Henry-Kofi&repo=eCommerceBackend&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Henry-Kofi&repo=taskManagerBackend&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Henry-Kofi&repo=DCIT308_INDIVIDUAL_PROJECT-java-Javafx-&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Henry-Kofi&repo=GUESSING_GAME_PYTHON_PROJECT&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </a>
 
+  <a href="https://github.com/Henry-Kofi/taskManagerBackend">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Henry-Kofi&repo=taskManagerBackend&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </a>
+
+  <a href="https://github.com/Henry-Kofi/DCIT308_INDIVIDUAL_PROJECT-java-Javafx-">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Henry-Kofi&repo=DCIT308_INDIVIDUAL_PROJECT-java-Javafx-&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </a>
+
+  <a href="https://github.com/Henry-Kofi/GUESSING_GAME_PYTHON_PROJECT">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Henry-Kofi&repo=GUESSING_GAME_PYTHON_PROJECT&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </a>
+
+  <a href="https://github.com/Henry-Kofi/Word-Analyst">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Henry-Kofi&repo=Word-Analyst&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </a>
 </p>
 
 <h2>My Contributions</h2>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Henry-Kofi&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Henry-Kofi&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Kofi&layout=compact&theme=cobalt&hide_border=true" />
+  <hr>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Henry-Kofi&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+  <hr>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Kofi&layout=compact&theme=cobalt&hide_border=true" />
 </p>
 
 <h2>Contact me</h2>
