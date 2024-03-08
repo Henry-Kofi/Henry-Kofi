@@ -125,7 +125,19 @@
   <img alt="Gmail" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
  
+<p align="center">
+    <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-YourGitHub-blue" alt="GitHub"></a>
+    <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue" alt="LinkedIn"></a>
+    <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-YourTwitter-blue" alt="Twitter"></a>
+    <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-YourPortfolio-blue" alt="Portfolio"></a>
+  </p>
 
+  <div align="center">
+    <a href="https://github.com/your-username"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
+    <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"></a>
+    <a href="https://twitter.com/your-twitter"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"></a>
+    <a href="https://your-portfolio.com"><img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio"></a>
+  </div>
 
 <!---
 Henry-Kofi/Henry-Kofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
